@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://thedenimcompany.pk/cdn/shop/products/7_472ad350-f6a9-40c5-82cd-0bdbb1cf3165.jpg?v=1665579545",
+            "title": "Jackets",
+            "price": 49.99
+        },
+        {
+            "id": 2,
+            "image": "https://www.harlowandpoppy.com/cdn/shop/files/33d47c3a5c581f4163f4188e6eedde095bf1aa5c756fa4abcb63bc81eac9671d_1080x.webp?v=1717179780",
+            "title": "Jeans",
+            "price": 39.99
+        },
+        {
+            "id": 3,
+            "image": "https://bachaaparty.com/cdn/shop/files/BPE_7532_4fc077a2-a3d0-48e5-b0a3-2f2312350de0_1400x.jpg?v=1725705217",
+            "title": "Acrylic Sweaters",
+            "price": 29.99
+        },
+        {
+            "id": 4,
+            "image": "https://cdn.shopify.com/s/files/1/0162/2116/files/How_to_wear_winter_coats_men_4.jpg?v=1478240317",
+            "title": "Winter Coats",
+            "price": 99.99
+        },
+        {
+            "id": 5,
+            "image": "https://image.made-in-china.com/202f0j00sMVfQNagZdqc/2020-Winter-New-Round-Neck-Long-Sleeve-T-Shirt-Men-Sweatshirt.webp",
+            "title": "Winter Shirts",
+            "price": 59.99
+        },
+        {
+            "id": 6,
+            "image": "https://media.istockphoto.com/id/1220783641/photo/portrait-of-super-tennage-girl.jpg?s=612x612&w=0&k=20&c=cqzwR4kO-4IgxgONr1si-XvvU-h3yU8J7kjdTGzsL1c=",
+            "title": "Shirts With Jackets",
+            "price": 149.99
+        },
+        {
+            "id": 7,
+            "image": "https://www.paragonjackets.com/wp-content/uploads/2022/07/leather-jacket-2-500x400.jpg",
+            "title": "Leather Jackets",
+            "price": 79.99
+        },
+        {
+            "id": 8,
+            "image": "https://hustlenholla.com.pk/cdn/shop/files/11.16.2023-Marina15398.jpg?v=1703668366&width=533",
+            "title": "Blue Jeans",
+            "price": 49.99
+        },
+        {
+            "id": 9,
+            "image": "https://theoctopus.pk/cdn/shop/files/IMG-1324.jpg?v=1700604284",
+            "title": "Varsity Jackets",
+            "price": 39.99
+        },
+        {
+            "id": 10,
+            "image": "https://static.wixstatic.com/media/d0f2c5_c2b2e799fc9a4cceb4692e1b98db935e~mv2.jpg/v1/fill/w_480,h_681,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/d0f2c5_c2b2e799fc9a4cceb4692e1b98db935e~mv2.jpg",
+            "title": "Hawaiian Shirts",
+            "price": 129.99
+        },
+        {
+            "id": 11,
+            "image": "https://bandana.pk/cdn/shop/files/M_R00259_1200x.jpg?v=1697022306",
+            "title": "Sweatshirts",
+            "price": 19.99
+        },
+        {
+            "id": 12,
+            "image": "https://bandana.pk/cdn/shop/products/Top_190A1781_Cropped_900x.jpg?v=1663927812",
+            "title": "Denim Jackets",
+            "price": 69.99
+        },
+        {
+            "id": 13,
+            "image": "https://deeds.pk/cdn/shop/files/modeblackhoodie.jpg?v=1705770180&width=900",
+            "title": "Hoodies",
+            "price": 29.99
+        },
+        {
+            "id": 14,
+            "image": "https://d30fs77zq6vq2v.cloudfront.net/product/1080x1619/25082022/17720_57_1661412723_630725730f786-681896582033.jpg",
+            "title": "Black Jeans",
+            "price": 59.99
+        },
+        {
+            "id": 15,
+            "image": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77042539_45.jpg?imwidth=2048&imdensity=1&ts=1718643856190",
+            "title": "OverSized T-Shirts",
+            "price": 49.99
+        },
+        {
+            "id": 16,
+            "image": "https://shahzebsaeed.com/cdn/shop/files/POLO746-2_17dd03bc-ce88-4a44-87c3-c79c46f4bd68.jpg?v=1722596330",
+            "title": "Polo T-Shirts",
+            "price": 89.99
+        },
+        {
+            "id": 17,
+            "image": "https://outfitters.com.pk/cdn/shop/files/F0967106720_1.jpg?v=1725866360",
+            "title": "Graphic T-Shirts",
+            "price": 34.99
+        },
+        {
+            "id": 18,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nLwM5fj0tG3PPKXp3u-UZAJ5y8jIl7eJhw&s",
+            "title": "Graphic Hoodies",
+            "price": 59.99
+        },
+        {
+            "id": 19,
+            "image": "https://www.zerodegree.com.pk/cdn/shop/products/29_be90ae3b-b791-461a-9168-b7d0a496b01b_1200x1200.jpg?v=1697221396",
+            "title": "Puffer Jackets",
+            "price": 119.99
+        },
+        {
+            "id": 20,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz--Jo7lpSeHX8FzYrdrXq61tbeAJgL5Y5WQ&s",
+            "title": "Ripped Jeans",
+            "price": 69.99
+        }
+    ]
+}
